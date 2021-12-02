@@ -1,5 +1,6 @@
 #ArthurXzz Team
 #discord.gg//ArthurXzzTeam
+import socket
 import struct
 import codecs,sys
 import threading
